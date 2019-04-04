@@ -1,0 +1,10 @@
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\obj\Debug\qrcode2.csprojResolveAssemblyReference.cache
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\obj\Debug\qrcode2.csproj.CoreCompileInputs.cache
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\bin\Debug\qrcode2.exe.config
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\bin\Debug\qrcode2.exe
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\bin\Debug\qrcode2.pdb
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\obj\Debug\qrcode2.csproj.CopyComplete
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\obj\Debug\qrcode2.exe
+C:\Users\anheizhanshen\source\repos\qrcode2\qrcode2\obj\Debug\qrcode2.pdb
